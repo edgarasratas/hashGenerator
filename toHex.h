@@ -1,4 +1,4 @@
 #pragma once
 #include "lib.h"
 
-string toHex(string input);
+void toHex(string& input);
