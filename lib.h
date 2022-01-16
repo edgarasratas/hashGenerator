@@ -6,10 +6,10 @@
 #include <sstream>
 #include <bitset>
 #include <iomanip>
+#include <algorithm>
 
 using std::cout;
+using std::endl;
+using std::to_string;
 using std::string;
-using std::stringstream;
 using std::ifstream;
-using std::bitset;
-using std::hex;
